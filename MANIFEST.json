@@ -1,0 +1,77 @@
+﻿[
+    {
+        "file":  "bags/scene1_building_entrance/scene1_run1.bag",
+        "bytes":  11258101,
+        "sha256":  "f79531a95321da76a2e8a3f837c924e454a71074b36a9884e616c3fbaa14d33a"
+    },
+    {
+        "file":  "bags/scene1_building_entrance/scene1_run2.bag",
+        "bytes":  8602221,
+        "sha256":  "137828e1be4571fe4a5619521acaf1b7944621e8b0329e47bd172c0c93471fe5"
+    },
+    {
+        "file":  "bags/scene1_building_entrance/scene1_run3.bag",
+        "bytes":  14619095,
+        "sha256":  "aabc66a58ad5b15dbe233132770c1be0e75e5215a3352d6c8f6abbfe04f3ab37"
+    },
+    {
+        "file":  "bags/scene2_arcade_corridor/scene2_run1.bag",
+        "bytes":  6647211,
+        "sha256":  "7615c13d6418c0673dc67437a24cec43a5f4a087a20ad13890444fe6a8052957"
+    },
+    {
+        "file":  "bags/scene2_arcade_corridor/scene2_run2.bag",
+        "bytes":  6308640,
+        "sha256":  "69dcefb4bd5ab6f1ae51f5dcc14f5688115f7dc25fe81ed338585d1d61c7a919"
+    },
+    {
+        "file":  "bags/scene2_arcade_corridor/scene2_run3.bag",
+        "bytes":  7253463,
+        "sha256":  "becd07ee4b249ce8a66bab33385c9058d07900f07c97aefeed54cbf0bad416e1"
+    },
+    {
+        "file":  "bags/scene3_tree_lined_path/scene3_run1.bag",
+        "bytes":  7690977,
+        "sha256":  "c761a1055fc381ea6823e01f039fceae36ef7dcb45cf4ca825dfd09a54bbc7bd"
+    },
+    {
+        "file":  "bags/scene3_tree_lined_path/scene3_run2.bag",
+        "bytes":  7564206,
+        "sha256":  "054202bbc0da35b7ec2d5563426d1e8d21816970a32683b5af9246fc40dd1e46"
+    },
+    {
+        "file":  "bags/scene3_tree_lined_path/scene3_run3.bag",
+        "bytes":  9025821,
+        "sha256":  "23fc91811066cfe0d4f571185c4d618afdf98565accaa4793c6b38e10fcdf6ea"
+    },
+    {
+        "file":  "bags/scene4_building_loop/scene4_run1.bag",
+        "bytes":  7739495,
+        "sha256":  "a64ab3f2891beb6403e82c6ff9cab3d64322339b7523fab051f8a77e4e32c611"
+    },
+    {
+        "file":  "bags/scene4_building_loop/scene4_run2.bag",
+        "bytes":  7733224,
+        "sha256":  "bbaa3bae9f61895afe47c8cfbbc5b8f1f748e95e46dfe0f8537d0c0f577bae5c"
+    },
+    {
+        "file":  "bags/scene4_building_loop/scene4_run3.bag",
+        "bytes":  13242247,
+        "sha256":  "7c7a57680ce548d84579a19afaeb5b14c45661b75edf1ca40e673521bc93f074"
+    },
+    {
+        "file":  "bags/scene5_underground_garage/scene5_run1.bag",
+        "bytes":  30725419,
+        "sha256":  "0c136610fccfbf0179170ff865b21772dbdf76d947bdb2f0b4c9655144f92612"
+    },
+    {
+        "file":  "bags/scene5_underground_garage/scene5_run2.bag",
+        "bytes":  15330417,
+        "sha256":  "5ccf9a58f67d1c12a371dd27887f32d9a1948a8dcc318f8518a44f3ebf6ef7c3"
+    },
+    {
+        "file":  "bags/scene5_underground_garage/scene5_run3.bag",
+        "bytes":  16479673,
+        "sha256":  "42b20b1de1d0c6482d2b6fecf03a2c483ea40937cf1c659fc14705c0c1618767"
+    }
+]
